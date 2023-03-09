@@ -1,5 +1,5 @@
 # causal-terms
-Description of terms used in causality
+Description of terms used in causality based on [Causal Machine Learning: A Survey and Open Problems](https://arxiv.org/abs/2206.15475)
 
 | Term                                | Idea                                                                                                                                                                                                                                                                                     | Synonyms                                           |
 | --- | --- | --- |
